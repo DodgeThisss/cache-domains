@@ -6,6 +6,11 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
+			"name": "tiktok",
+			"description": "CDN for TikTok",
+			"domain_files": ["tiktok.txt"]
+		},
+		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
